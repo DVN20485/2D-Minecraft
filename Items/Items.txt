@@ -1,0 +1,20 @@
+#format : 'Item name'-recipe-craftable-smelt-block-Tool
+Wood- -False-False-True-False-
+Stone- -False-False-True-False-
+Iron Ore- -False-False-False-False-
+Iron Ingot-Iron Ore,1-False-True-False-False-
+Wood pickaxe-Wood,5-True-False-False-True-
+Stone pickaxe-Wood,2,Stone,3-True-False-False-True-
+Iron pickaxe-Wood,2,Iron Ingot,3-True-False-False-True-
+Bucket-Iron Ingot,3-True-False-False-True-
+Bucket of Water- -False-False-True-False-
+Crafting Table-Wood,4-True-False-True-False-
+Copper Ore- -False-False-False-False-
+Gold Ore- -False-False-False-False-
+Diamond Ore- -False-False-False-False-
+Phosphorus Ore- -False-False-False-False-
+Copper Ingot-Copper Ore,1-False-True-False-False-
+Gold Ingot-Gold Ore,1-False-True-False-False-
+Diamond Ingot-Diamond Ore,1-False-True-False-False-
+Phosphorus Ingot-Phosphorus Ore,1-False-True-False-False-
+Ressurection Stone-Phosphorus Ingot,1,Diamond Ingot,1,Gold Ingot,1,Copper Ingot,1,Iron Ingot,1-False-True-False-False-
